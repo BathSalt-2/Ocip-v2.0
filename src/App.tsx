@@ -415,7 +415,7 @@ function App() {
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="mb-6 md:mb-0">
               <p className="text-gray-400">
-                © 2024 OR4CL3 AI Solutions. All rights reserved.
+                © 2025 OR4CL3 AI Solutions. All rights reserved.
               </p>
             </div>
             <div className="flex items-center space-x-6">
