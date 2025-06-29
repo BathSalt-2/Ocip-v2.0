@@ -273,7 +273,7 @@ function App() {
                 <div className="mt-6 text-center">
                   <div className="inline-flex items-center space-x-2 bg-green-500/20 text-green-400 px-4 py-2 rounded-full">
                     <Shield className="w-4 h-4" />
-                    <span className="text-sm font-medium">PAS > 0.91 Verified</span>
+                    <span className="text-sm font-medium">PAS &gt; 0.91 Verified</span>
                   </div>
                 </div>
               </div>
